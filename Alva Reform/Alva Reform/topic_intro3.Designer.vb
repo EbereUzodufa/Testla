@@ -1,0 +1,126 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class topic_intro3
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
+        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Panel1.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'Panel1
+        '
+        Me.Panel1.Controls.Add(Me.RichTextBox1)
+        Me.Panel1.Controls.Add(Me.TextBox2)
+        Me.Panel1.Controls.Add(Me.TextBox1)
+        Me.Panel1.Location = New System.Drawing.Point(20, 91)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(670, 312)
+        Me.Panel1.TabIndex = 36
+        '
+        'RichTextBox1
+        '
+        Me.RichTextBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.RichTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.RichTextBox1.Cursor = System.Windows.Forms.Cursors.Default
+        Me.RichTextBox1.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.RichTextBox1.Font = New System.Drawing.Font("Calibri", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.RichTextBox1.Location = New System.Drawing.Point(0, 139)
+        Me.RichTextBox1.Name = "RichTextBox1"
+        Me.RichTextBox1.ReadOnly = True
+        Me.RichTextBox1.Size = New System.Drawing.Size(670, 173)
+        Me.RichTextBox1.TabIndex = 2
+        Me.RichTextBox1.Text = "-English System" & Global.Microsoft.VisualBasic.ChrW(10) & "Example: pound, foot, inch, yard, second" & Global.Microsoft.VisualBasic.ChrW(10) & "-Metric System" & Global.Microsoft.VisualBasic.ChrW(10) & "Example: " & _
+            "kilogram, meter, gram, kelvin, second"
+        Me.RichTextBox1.WordWrap = False
+        '
+        'TextBox2
+        '
+        Me.TextBox2.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.TextBox2.Dock = System.Windows.Forms.DockStyle.Top
+        Me.TextBox2.Font = New System.Drawing.Font("Calibri", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox2.Location = New System.Drawing.Point(0, 103)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.ReadOnly = True
+        Me.TextBox2.Size = New System.Drawing.Size(670, 36)
+        Me.TextBox2.TabIndex = 1
+        Me.TextBox2.Text = "Measurement in science is classified into two areas:"
+        '
+        'TextBox1
+        '
+        Me.TextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.TextBox1.Dock = System.Windows.Forms.DockStyle.Top
+        Me.TextBox1.Font = New System.Drawing.Font("Cambria", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox1.Location = New System.Drawing.Point(0, 0)
+        Me.TextBox1.Multiline = True
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.ReadOnly = True
+        Me.TextBox1.Size = New System.Drawing.Size(670, 103)
+        Me.TextBox1.TabIndex = 0
+        Me.TextBox1.Text = "The English and Metric " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "systems of Measurements"
+        Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(77, 409)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(100, 49)
+        Me.Button2.TabIndex = 37
+        Me.Button2.Text = "<<BACK"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(554, 409)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(100, 49)
+        Me.Button1.TabIndex = 36
+        Me.Button1.Text = "NEXT>>"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'topic_intro3
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(721, 465)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.Panel1)
+        Me.Name = "topic_intro3"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Form3"
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents RichTextBox1 As System.Windows.Forms.RichTextBox
+    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
+    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+End Class

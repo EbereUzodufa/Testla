@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlvaOptimus1.1
+</name>
+</assembly>
+<members>
+<member name="P:Alva_Optimus_1._1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.combi_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.combi_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.control">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.dark_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.dark_white">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.G3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.Green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.light_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.lighter_orange_40_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.Lime">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.nm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.olive_green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.Pink">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.pinkish_red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.plain_white">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.PreviewBitmap">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.purple_accent_4_50_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.Red_Accent">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.sky_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.sweet_purple">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.Tan_dark_25_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.whiteghost">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alva_Optimus_1._1.My.Resources.Resources.yellow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Alva_Optimus_1._1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

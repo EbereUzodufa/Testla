@@ -1,0 +1,5 @@
+c:\users\ebere\documents\visual studio 2013\Projects\Courses\Courses\bin\Debug\Courses.exe.config
+c:\users\ebere\documents\visual studio 2013\Projects\Courses\Courses\obj\Debug\Courses.csprojResolveAssemblyReference.cache
+c:\users\ebere\documents\visual studio 2013\Projects\Courses\Courses\obj\Debug\Courses.Form1.resources
+c:\users\ebere\documents\visual studio 2013\Projects\Courses\Courses\obj\Debug\Courses.Properties.Resources.resources
+c:\users\ebere\documents\visual studio 2013\Projects\Courses\Courses\obj\Debug\Courses.csproj.GenerateResource.Cache

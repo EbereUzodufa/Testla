@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{51ABB852-DFEF-4587-8FF2-33461F79B26E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Alva_Optimus_1._1.My.MyApplication</StartupObject>
+    <RootNamespace>Alva_Optimus_1._1</RootNamespace>
+    <AssemblyName>Alva Optimus 1.1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Alva Optimus 1.1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Alva Optimus 1.1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bin\Debug\Resources\favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aftersplash.Designer.vb">
+      <DependentUpon>Aftersplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aftersplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cgpa.Designer.vb">
+      <DependentUpon>cgpa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cgpa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hider.Designer.vb">
+      <DependentUpon>hider.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hider.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleALVA.vb" />
+    <Compile Include="Outline.Designer.vb">
+      <DependentUpon>Outline.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Outline.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Smart.Designer.vb">
+      <DependentUpon>Smart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Smart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subject.Designer.vb">
+      <DependentUpon>Subject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Subject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tester.Designer.vb">
+      <DependentUpon>Tester.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Aftersplash.resx">
+      <DependentUpon>Aftersplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cgpa.resx">
+      <DependentUpon>cgpa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hider.resx">
+      <DependentUpon>hider.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Outline.resx">
+      <DependentUpon>Outline.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Smart.resx">
+      <DependentUpon>Smart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject.resx">
+      <DependentUpon>Subject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tester.resx">
+      <DependentUpon>Tester.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resources\ACID.pdf" />
+    <None Include="bin\Debug\Resources\Chydum Project.pptx" />
+    <None Include="bin\Debug\Resources\Chydum.pdf" />
+    <None Include="bin\Debug\Resources\Chydum.ppsx" />
+    <None Include="bin\Debug\Resources\Chydum.pptx" />
+    <None Include="bin\Debug\Resources\Defense slide_U2010_3030010.ppsx" />
+    <None Include="bin\Debug\Resources\Defense slide_U2010_3030010.pptx" />
+    <None Include="bin\Debug\Resources\IMMO TAL.pdf" />
+    <None Include="bin\Debug\Resources\Introduction to chemistry.ppsx" />
+    <None Include="bin\Debug\Resources\Introduction to chemistry.pptx" />
+    <None Include="bin\Debug\Resources\seminar topic_Catalytic Reduction of vehicular emission pollution, techinical seminar.pdf" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="bin\Debug\Resources\black.jpg" />
+    <Content Include="bin\Debug\Resources\blue.jpg" />
+    <Content Include="bin\Debug\Resources\combi 1.jpg" />
+    <Content Include="bin\Debug\Resources\combi 2.jpg" />
+    <Content Include="bin\Debug\Resources\control.png" />
+    <Content Include="bin\Debug\Resources\dark blue.jpg" />
+    <Content Include="bin\Debug\Resources\dark white.jpg" />
+    <Content Include="bin\Debug\Resources\favicon.ico" />
+    <Content Include="bin\Debug\Resources\G1.png" />
+    <Content Include="bin\Debug\Resources\g2.png" />
+    <Content Include="bin\Debug\Resources\G3.png" />
+    <Content Include="bin\Debug\Resources\Green.jpg" />
+    <Content Include="bin\Debug\Resources\icon.png" />
+    <Content Include="bin\Debug\Resources\light blue.jpg" />
+    <Content Include="bin\Debug\Resources\lighter orange 40%25.jpg" />
+    <Content Include="bin\Debug\Resources\Lime.jpg" />
+    <Content Include="bin\Debug\Resources\nm.png" />
+    <Content Include="bin\Debug\Resources\olive green.jpg" />
+    <Content Include="bin\Debug\Resources\Pink.jpg" />
+    <Content Include="bin\Debug\Resources\pinkish red.png" />
+    <Content Include="bin\Debug\Resources\plain white.jpg" />
+    <Content Include="bin\Debug\Resources\PreviewBitmap.png" />
+    <Content Include="bin\Debug\Resources\purple accent 4 50%25.jpg" />
+    <Content Include="bin\Debug\Resources\Red Accent.png" />
+    <Content Include="bin\Debug\Resources\red.jpg" />
+    <Content Include="bin\Debug\Resources\sky blue.jpg" />
+    <Content Include="bin\Debug\Resources\sweet purple.png" />
+    <Content Include="bin\Debug\Resources\Tan dark 25%25.jpg" />
+    <Content Include="bin\Debug\Resources\whiteghost.png" />
+    <Content Include="bin\Debug\Resources\yellow.png" />
+    <Content Include="Resources\favicon.ico" />
+    <None Include="Resources\yellow.png" />
+    <None Include="Resources\whiteghost.png" />
+    <None Include="Resources\Tan dark 25%25.jpg" />
+    <None Include="Resources\sweet purple.png" />
+    <None Include="Resources\sky blue.jpg" />
+    <None Include="Resources\red.jpg" />
+    <None Include="Resources\Red Accent.png" />
+    <None Include="Resources\purple accent 4 50%25.jpg" />
+    <None Include="Resources\PreviewBitmap.png" />
+    <None Include="Resources\plain white.jpg" />
+    <None Include="Resources\pinkish red.png" />
+    <None Include="Resources\Pink.jpg" />
+    <None Include="Resources\olive green.jpg" />
+    <None Include="Resources\nm.png" />
+    <None Include="Resources\Lime.jpg" />
+    <None Include="Resources\lighter orange 40%25.jpg" />
+    <None Include="Resources\light blue.jpg" />
+    <None Include="Resources\icon.png" />
+    <None Include="Resources\Green.jpg" />
+    <None Include="Resources\G3.png" />
+    <None Include="Resources\dark white.jpg" />
+    <None Include="Resources\dark blue.jpg" />
+    <None Include="Resources\control.png" />
+    <None Include="Resources\combi 2.jpg" />
+    <None Include="Resources\combi 1.jpg" />
+    <None Include="Resources\blue.jpg" />
+    <None Include="Resources\black.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

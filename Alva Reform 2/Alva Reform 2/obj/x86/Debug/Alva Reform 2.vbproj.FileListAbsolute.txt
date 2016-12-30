@@ -1,0 +1,13 @@
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\bin\Debug\Alva Reform 2.exe
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\bin\Debug\Alva Reform 2.pdb
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\bin\Debug\Alva Reform 2.xml
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva_Reform_2.CGPA.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva_Reform_2.Subject.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva_Reform_2.Game1.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva_Reform_2.Home.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva_Reform_2.Resources.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva_Reform_2.Splash.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva Reform 2.vbproj.GenerateResource.Cache
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva Reform 2.exe
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva Reform 2.xml
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform 2\Alva Reform 2\obj\x86\Debug\Alva Reform 2.pdb

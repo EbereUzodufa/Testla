@@ -1,0 +1,23 @@
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\bin\Debug\Alva Reform.exe.config
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\bin\Debug\Alva Reform.exe
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\bin\Debug\Alva Reform.pdb
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\bin\Debug\Alva Reform.xml
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\Alva Reform.vbproj.GenerateResource.Cache
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\Alva Reform.exe
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\Alva Reform.xml
+C:\Users\Ebere\documents\visual studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\Alva Reform.pdb
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.Courses.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.Home.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.Subject.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topics.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro2.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro1.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro3.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro4.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro5.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro6.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro7.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.topic_intro8.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.Generalknowledge.resources
+C:\Users\Ebere\Documents\Visual Studio 2010\Projects\Alva Reform\Alva Reform\obj\x86\Debug\WindowsApplication1.GAme1.resources

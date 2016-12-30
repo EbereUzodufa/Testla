@@ -1,0 +1,11 @@
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\bin\Debug\CoursesVB.exe.config
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\bin\Debug\CoursesVB.exe
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\bin\Debug\CoursesVB.pdb
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\bin\Debug\CoursesVB.xml
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.Form1.resources
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.Resources.resources
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.vbproj.GenerateResource.Cache
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.exe
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.xml
+c:\users\ebere\documents\visual studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.pdb
+C:\Users\Ebere\Documents\Visual Studio 2013\Projects\CoursesVB\CoursesVB\obj\Debug\CoursesVB.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\bin\Debug\Alva Optimus 1.1.exe.config
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\bin\Debug\Alva Optimus 1.1.exe
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\bin\Debug\Alva Optimus 1.1.pdb
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\bin\Debug\Alva Optimus 1.1.xml
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Resources.resources
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.vbproj.GenerateResource.Cache
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.exe
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.xml
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.pdb
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Home.resources
+c:\users\tino\documents\visual studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Tester.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Subject.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.hider.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Outline.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.cgpa.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Smart.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Aftersplash.resources
+C:\Users\TINO\Documents\Visual Studio 2013\Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva_Optimus_1._1.Splash.resources
+D:\VB Projects\Alva Optimus 1.1\Alva Optimus 1.1\bin\Debug\Alva Optimus 1.1.exe.config
+D:\VB Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.exe
+D:\VB Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.xml
+D:\VB Projects\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.pdb
+C:\Users\Ebere\Documents\Visual Studio 2013\Alva Optimus 1.1\Alva Optimus 1.1\bin\Debug\Alva Optimus 1.1.exe.config
+C:\Users\Ebere\Documents\Visual Studio 2013\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.exe
+C:\Users\Ebere\Documents\Visual Studio 2013\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.xml
+C:\Users\Ebere\Documents\Visual Studio 2013\Alva Optimus 1.1\Alva Optimus 1.1\obj\Debug\Alva Optimus 1.1.pdb

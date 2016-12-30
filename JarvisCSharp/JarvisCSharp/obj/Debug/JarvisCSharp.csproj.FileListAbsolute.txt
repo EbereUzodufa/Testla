@@ -1,0 +1,9 @@
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\bin\Debug\JarvisCSharp.exe.config
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\bin\Debug\JarvisCSharp.exe
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\bin\Debug\JarvisCSharp.pdb
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\obj\Debug\JarvisCSharp.csprojResolveAssemblyReference.cache
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\obj\Debug\JarvisCSharp.Properties.Resources.resources
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\obj\Debug\JarvisCSharp.csproj.GenerateResource.Cache
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\obj\Debug\JarvisCSharp.exe
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\obj\Debug\JarvisCSharp.pdb
+c:\users\ebere\documents\visual studio 2013\Projects\JarvisCSharp\JarvisCSharp\obj\Debug\JarvisCSharp.Form2.resources

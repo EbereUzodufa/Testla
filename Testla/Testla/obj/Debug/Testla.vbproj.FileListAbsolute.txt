@@ -1,0 +1,14 @@
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\bin\Debug\Testla.exe.config
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\bin\Debug\Testla.exe
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\bin\Debug\Testla.pdb
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\bin\Debug\Testla.xml
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.Form1.resources
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.Resources.resources
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.vbproj.GenerateResource.Cache
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.exe
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.xml
+c:\users\ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.pdb
+C:\Users\Ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.vbprojResolveAssemblyReference.cache
+C:\Users\Ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Interop.Shell32.dll
+C:\Users\Ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.vbproj.ResolveComReference.cache
+C:\Users\Ebere\documents\visual studio 2013\Projects\Testla\Testla\obj\Debug\Testla.Kara100.resources

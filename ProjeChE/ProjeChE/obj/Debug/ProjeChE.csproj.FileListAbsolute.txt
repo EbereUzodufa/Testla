@@ -1,0 +1,9 @@
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\bin\Debug\ProjeChE.exe.config
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\bin\Debug\ProjeChE.exe
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\bin\Debug\ProjeChE.pdb
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\obj\Debug\ProjeChE.csprojResolveAssemblyReference.cache
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\obj\Debug\ProjeChE.Form1.resources
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\obj\Debug\ProjeChE.Properties.Resources.resources
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\obj\Debug\ProjeChE.csproj.GenerateResource.Cache
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\obj\Debug\ProjeChE.exe
+c:\users\ebere\documents\visual studio 2013\Projects\ProjeChE\ProjeChE\obj\Debug\ProjeChE.pdb
